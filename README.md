@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-A student majoring in Informatics Engineering. Currently actively developing small projects as a Web Developer, working as a user interface builder and maintainer.
+A student majoring in Informatics Engineering. Currently actively developing small projects as a Web Developer and Machine Learning Developer.
 
-I have core expertise in HTML, CSS, and JavaScript, and is currently exploring frameworks such as Vue.js, React.js, and Node.js. Interested in pursuing a career as a Front-End Developer, Web Developer, or other positions related to web development.
+I have core expertise in HTML, CSS, and JavaScript, and is currently exploring frameworks such as Vue.js, React.js, and Node.js. Also basic in Python and SQL. Interested in pursuing a career as a Front-End Developer, Web Developer, or other positions related to web development.
 
 ### Github Statistic
 <p align="left">
